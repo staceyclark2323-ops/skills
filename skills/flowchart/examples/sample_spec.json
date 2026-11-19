@@ -1,0 +1,11 @@
+{
+  "title": "Steps of Writing IEP Goals",
+  "subtitle": "SAMPLE ONLY: placeholder steps. Real content comes from the source document.",
+  "start": "Open the student's IEP in Infinite Campus",
+  "steps": [
+    {"action": "Review present levels", "details": ["Check current data and teacher input"], "check": "Present levels complete?", "if_no": "Gather missing data before writing goals"},
+    {"action": "Write the measurable goal", "details": ["Condition, behavior, criteria, timeframe"], "check": "Goal measurable?", "if_no": "Revise wording until it can be measured"},
+    {"action": "Save and verify", "check": "Saved with no errors?", "if_no": "Fix flagged fields and save again"}
+  ],
+  "end": "IEP goals written and saved"
+}

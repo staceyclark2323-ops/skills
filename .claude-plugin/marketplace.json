@@ -31,6 +31,7 @@
         "./skills/brand-guidelines",
         "./skills/canvas-design",
         "./skills/doc-coauthoring",
+        "./skills/flowchart",
         "./skills/frontend-design",
         "./skills/internal-comms",
         "./skills/mcp-builder",
@@ -40,8 +41,7 @@
         "./skills/web-artifacts-builder",
         "./skills/webapp-testing"
       ]
-    }
-    ,
+    },
     {
       "name": "claude-api",
       "description": "Claude API and SDK documentation skill for building LLM-powered applications",
